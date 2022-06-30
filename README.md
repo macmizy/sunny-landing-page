@@ -36,15 +36,12 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
+- HTML
+- CSS
 - Javascript
-*
 
 ### What I learned
-I learnt how to use the "::before, position, transform" properly
+I learnt how to use the "::before, position, transform " properly and many other things.
 
 
 ```css
